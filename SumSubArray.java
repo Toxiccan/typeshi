@@ -1,6 +1,6 @@
 import java.util.*;
 
-class SlidingWindow1
+class SumSubArray
 {
     public static void main(String[] args) 
     {
