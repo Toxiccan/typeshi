@@ -20,7 +20,7 @@ class SumSubArray
         int maxs = arr[0];
         for(int i = 1;i < arr.length;i++)
         {
-            currents = Math.max(currents,currents + arr[i]);
+            currents = Math.max(arr[i],currents + arr[i]);
             maxs = Math.max(maxs,currents);
         }
         return maxs;
