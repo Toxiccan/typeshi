@@ -2,33 +2,28 @@ import java.util.*;
 
 class SumSubArray
 {
-    public static void main(String[] args) 
-    {
+    public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
-        int P = sc.nextInt();
-        int I = sc.nextInt();
-        int arr[] = new int[P];
-        int totalsubarray = P*(P+1)/2;
-        int sumarr[] = new int[totalsubarray];
-        int k = 0;
-
-        for(int i = 0;i < P;i++)
+        int n = sc.nextInt();
+        int arr[] = new int[n];
+        for(int i = 0;i < n;i++)
         {
             arr[i] = sc.nextInt();
-
         }
-        for(int i = 0;i < P;i++)
+        System.out.println("Maximum Sum Subarray:" +Solution(arr));
+        
+    }
+
+    public static int Solution(int arr[])
+    {
+        int currents = arr[0];
+        int maxs = arr[0];
+        for(int i = 1;i < arr.length;i++)
         {
-            int sum = 0;
-            for(int j = i;j < P;j++)
-            {
-                sum += arr[j];
-                sumarr[k++] = sum;
-            }
+            currents = Math.max(currents,currents + arr[i]);
+            maxs = Math.max(maxs,currents);
         }
+        return maxs;
 
-        Arrays.sort(sumarr);
-
-        System.out.println(sumarr[I-1]);
     }
 }
