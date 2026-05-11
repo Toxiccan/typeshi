@@ -37,3 +37,8 @@ Thumbs.db
 # VS Code
 # =========================
 .vscode/
+
+
+*.pem
+*.ppk
+
