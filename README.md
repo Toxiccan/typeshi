@@ -12,6 +12,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0001-two-sum](https://github.com/Toxiccan/typeshi/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Toxiccan/typeshi/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Toxiccan/typeshi/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Toxiccan/typeshi/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Toxiccan/typeshi/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -53,4 +54,8 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Toxiccan/typeshi/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Toxiccan/typeshi/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
