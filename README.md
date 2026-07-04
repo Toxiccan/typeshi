@@ -41,6 +41,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Toxiccan/typeshi/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Toxiccan/typeshi/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Toxiccan/typeshi/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Toxiccan/typeshi/tree/master/0242-valid-anagram) |
@@ -99,6 +100,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Toxiccan/typeshi/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Toxiccan/typeshi/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
