@@ -31,6 +31,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0704-binary-search](https://github.com/Toxiccan/typeshi/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Toxiccan/typeshi/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Toxiccan/typeshi/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/Toxiccan/typeshi/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +111,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0162-find-peak-element](https://github.com/Toxiccan/typeshi/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Toxiccan/typeshi/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Toxiccan/typeshi/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Toxiccan/typeshi/tree/master/0875-koko-eating-bananas) |
 ## Greedy
 |  |
 | ------- |
