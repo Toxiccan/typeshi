@@ -104,6 +104,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0125-valid-palindrome](https://github.com/Toxiccan/typeshi/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Toxiccan/typeshi/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0633-sum-of-square-numbers](https://github.com/Toxiccan/typeshi/tree/master/0633-sum-of-square-numbers) |
+| [0876-middle-of-the-linked-list](https://github.com/Toxiccan/typeshi/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -158,6 +159,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Toxiccan/typeshi/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Toxiccan/typeshi/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Toxiccan/typeshi/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
