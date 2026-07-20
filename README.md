@@ -33,6 +33,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0739-daily-temperatures](https://github.com/Toxiccan/typeshi/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Toxiccan/typeshi/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Toxiccan/typeshi/tree/master/0875-koko-eating-bananas) |
+| [1260-shift-2d-grid](https://github.com/Toxiccan/typeshi/tree/master/1260-shift-2d-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +92,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | ------- |
 | [0036-valid-sudoku](https://github.com/Toxiccan/typeshi/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Toxiccan/typeshi/tree/master/0074-search-a-2d-matrix) |
+| [1260-shift-2d-grid](https://github.com/Toxiccan/typeshi/tree/master/1260-shift-2d-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -166,4 +168,8 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Toxiccan/typeshi/tree/master/0206-reverse-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Toxiccan/typeshi/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
