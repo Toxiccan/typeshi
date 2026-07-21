@@ -26,6 +26,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0150-evaluate-reverse-polish-notation](https://github.com/Toxiccan/typeshi/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/Toxiccan/typeshi/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Toxiccan/typeshi/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Toxiccan/typeshi/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Toxiccan/typeshi/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Toxiccan/typeshi/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Toxiccan/typeshi/tree/master/0347-top-k-frequent-elements) |
@@ -107,6 +108,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0088-merge-sorted-array](https://github.com/Toxiccan/typeshi/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Toxiccan/typeshi/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Toxiccan/typeshi/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Toxiccan/typeshi/tree/master/0189-rotate-array) |
 | [0633-sum-of-square-numbers](https://github.com/Toxiccan/typeshi/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/Toxiccan/typeshi/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
@@ -156,6 +158,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Toxiccan/typeshi/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Toxiccan/typeshi/tree/master/0189-rotate-array) |
 | [0633-sum-of-square-numbers](https://github.com/Toxiccan/typeshi/tree/master/0633-sum-of-square-numbers) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Toxiccan/typeshi/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Linked List
