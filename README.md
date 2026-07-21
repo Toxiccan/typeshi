@@ -166,6 +166,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Toxiccan/typeshi/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Toxiccan/typeshi/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Toxiccan/typeshi/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Toxiccan/typeshi/tree/master/0237-delete-node-in-a-linked-list) |
@@ -173,6 +174,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Toxiccan/typeshi/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Toxiccan/typeshi/tree/master/0206-reverse-linked-list) |
 ## Simulation
 |  |
