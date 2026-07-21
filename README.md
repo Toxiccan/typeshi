@@ -42,6 +42,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0036-valid-sudoku](https://github.com/Toxiccan/typeshi/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Toxiccan/typeshi/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Toxiccan/typeshi/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/Toxiccan/typeshi/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Toxiccan/typeshi/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Toxiccan/typeshi/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Toxiccan/typeshi/tree/master/0347-top-k-frequent-elements) |
@@ -107,6 +108,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0042-trapping-rain-water](https://github.com/Toxiccan/typeshi/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Toxiccan/typeshi/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Toxiccan/typeshi/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Toxiccan/typeshi/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Toxiccan/typeshi/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Toxiccan/typeshi/tree/master/0189-rotate-array) |
 | [0633-sum-of-square-numbers](https://github.com/Toxiccan/typeshi/tree/master/0633-sum-of-square-numbers) |
@@ -164,6 +166,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Toxiccan/typeshi/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Toxiccan/typeshi/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Toxiccan/typeshi/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Toxiccan/typeshi/tree/master/0876-middle-of-the-linked-list) |
