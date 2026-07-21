@@ -180,4 +180,8 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Toxiccan/typeshi/tree/master/1260-shift-2d-grid) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Toxiccan/typeshi/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
