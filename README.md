@@ -196,6 +196,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [1148-article-views-i](https://github.com/Toxiccan/typeshi/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Toxiccan/typeshi/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Toxiccan/typeshi/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [1661-average-time-of-process-per-machine](https://github.com/Toxiccan/typeshi/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/Toxiccan/typeshi/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Toxiccan/typeshi/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
