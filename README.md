@@ -44,6 +44,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0128-longest-consecutive-sequence](https://github.com/Toxiccan/typeshi/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Toxiccan/typeshi/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Toxiccan/typeshi/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Toxiccan/typeshi/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Toxiccan/typeshi/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Toxiccan/typeshi/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Toxiccan/typeshi/tree/master/0347-top-k-frequent-elements) |
@@ -158,6 +159,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Toxiccan/typeshi/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Toxiccan/typeshi/tree/master/0155-min-stack) |
 | [0981-time-based-key-value-store](https://github.com/Toxiccan/typeshi/tree/master/0981-time-based-key-value-store) |
 ## Math
@@ -177,6 +179,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0138-copy-list-with-random-pointer](https://github.com/Toxiccan/typeshi/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Toxiccan/typeshi/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Toxiccan/typeshi/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/Toxiccan/typeshi/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Toxiccan/typeshi/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Toxiccan/typeshi/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Toxiccan/typeshi/tree/master/0876-middle-of-the-linked-list) |
@@ -205,4 +208,8 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [1661-average-time-of-process-per-machine](https://github.com/Toxiccan/typeshi/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/Toxiccan/typeshi/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Toxiccan/typeshi/tree/master/1757-recyclable-and-low-fat-products) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Toxiccan/typeshi/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
