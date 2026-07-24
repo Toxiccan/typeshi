@@ -117,6 +117,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0143-reorder-list](https://github.com/Toxiccan/typeshi/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Toxiccan/typeshi/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Toxiccan/typeshi/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Toxiccan/typeshi/tree/master/0234-palindrome-linked-list) |
 | [0633-sum-of-square-numbers](https://github.com/Toxiccan/typeshi/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/Toxiccan/typeshi/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
@@ -149,6 +150,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0143-reorder-list](https://github.com/Toxiccan/typeshi/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Toxiccan/typeshi/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Toxiccan/typeshi/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/Toxiccan/typeshi/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/Toxiccan/typeshi/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Toxiccan/typeshi/tree/master/0853-car-fleet) |
 ## Monotonic Stack
@@ -184,6 +186,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0143-reorder-list](https://github.com/Toxiccan/typeshi/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/Toxiccan/typeshi/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Toxiccan/typeshi/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Toxiccan/typeshi/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Toxiccan/typeshi/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Toxiccan/typeshi/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -193,6 +196,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0021-merge-two-sorted-lists](https://github.com/Toxiccan/typeshi/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Toxiccan/typeshi/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Toxiccan/typeshi/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Toxiccan/typeshi/tree/master/0234-palindrome-linked-list) |
 ## Simulation
 |  |
 | ------- |
