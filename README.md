@@ -170,6 +170,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Toxiccan/typeshi/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/Toxiccan/typeshi/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Toxiccan/typeshi/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Toxiccan/typeshi/tree/master/0189-rotate-array) |
 | [0633-sum-of-square-numbers](https://github.com/Toxiccan/typeshi/tree/master/0633-sum-of-square-numbers) |
