@@ -28,6 +28,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Toxiccan/typeshi/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Toxiccan/typeshi/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Toxiccan/typeshi/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Toxiccan/typeshi/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Toxiccan/typeshi/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Toxiccan/typeshi/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Toxiccan/typeshi/tree/master/0628-maximum-product-of-three-numbers) |
@@ -49,6 +50,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0142-linked-list-cycle-ii](https://github.com/Toxiccan/typeshi/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Toxiccan/typeshi/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Toxiccan/typeshi/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Toxiccan/typeshi/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Toxiccan/typeshi/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Toxiccan/typeshi/tree/master/0347-top-k-frequent-elements) |
 | [0981-time-based-key-value-store](https://github.com/Toxiccan/typeshi/tree/master/0981-time-based-key-value-store) |
@@ -227,5 +229,6 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Toxiccan/typeshi/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Toxiccan/typeshi/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
