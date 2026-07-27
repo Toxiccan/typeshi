@@ -31,6 +31,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0238-product-of-array-except-self](https://github.com/Toxiccan/typeshi/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Toxiccan/typeshi/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Toxiccan/typeshi/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/Toxiccan/typeshi/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Toxiccan/typeshi/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Toxiccan/typeshi/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Toxiccan/typeshi/tree/master/0853-car-fleet) |
@@ -223,4 +224,8 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Toxiccan/typeshi/tree/master/0146-lru-cache) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Toxiccan/typeshi/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
