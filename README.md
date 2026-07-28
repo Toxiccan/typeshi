@@ -54,6 +54,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0219-contains-duplicate-ii](https://github.com/Toxiccan/typeshi/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Toxiccan/typeshi/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Toxiccan/typeshi/tree/master/0347-top-k-frequent-elements) |
+| [0567-permutation-in-string](https://github.com/Toxiccan/typeshi/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/Toxiccan/typeshi/tree/master/0981-time-based-key-value-store) |
 ## Sorting
 |  |
@@ -73,6 +74,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0049-group-anagrams](https://github.com/Toxiccan/typeshi/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Toxiccan/typeshi/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Toxiccan/typeshi/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/Toxiccan/typeshi/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/Toxiccan/typeshi/tree/master/0981-time-based-key-value-store) |
 ## Divide and Conquer
 |  |
@@ -124,6 +126,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Toxiccan/typeshi/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Toxiccan/typeshi/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Toxiccan/typeshi/tree/master/0234-palindrome-linked-list) |
+| [0567-permutation-in-string](https://github.com/Toxiccan/typeshi/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Toxiccan/typeshi/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/Toxiccan/typeshi/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
@@ -232,5 +235,6 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Toxiccan/typeshi/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/Toxiccan/typeshi/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Toxiccan/typeshi/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
