@@ -14,11 +14,9 @@
  * }
  */
 class Solution {
-    int k;
     int count = 0;
     int ans;
     public int kthSmallest(TreeNode root, int k) {
-        this.k = k;
         dfs(root,k);
         return ans;
     }
