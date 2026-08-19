@@ -84,6 +84,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0049-group-anagrams](https://github.com/Toxiccan/typeshi/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Toxiccan/typeshi/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Toxiccan/typeshi/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Toxiccan/typeshi/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0451-sort-characters-by-frequency](https://github.com/Toxiccan/typeshi/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Toxiccan/typeshi/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/Toxiccan/typeshi/tree/master/0981-time-based-key-value-store) |
@@ -200,6 +201,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | ------- |
 | [0146-lru-cache](https://github.com/Toxiccan/typeshi/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Toxiccan/typeshi/tree/master/0155-min-stack) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Toxiccan/typeshi/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0981-time-based-key-value-store](https://github.com/Toxiccan/typeshi/tree/master/0981-time-based-key-value-store) |
 ## Math
 |  |
@@ -281,6 +283,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0226-invert-binary-tree](https://github.com/Toxiccan/typeshi/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Toxiccan/typeshi/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Toxiccan/typeshi/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Toxiccan/typeshi/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0427-construct-quad-tree](https://github.com/Toxiccan/typeshi/tree/master/0427-construct-quad-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Toxiccan/typeshi/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Toxiccan/typeshi/tree/master/0543-diameter-of-binary-tree) |
@@ -301,6 +304,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0226-invert-binary-tree](https://github.com/Toxiccan/typeshi/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Toxiccan/typeshi/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Toxiccan/typeshi/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Toxiccan/typeshi/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Toxiccan/typeshi/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Toxiccan/typeshi/tree/master/0572-subtree-of-another-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Toxiccan/typeshi/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -319,6 +323,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0226-invert-binary-tree](https://github.com/Toxiccan/typeshi/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Toxiccan/typeshi/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Toxiccan/typeshi/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Toxiccan/typeshi/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Toxiccan/typeshi/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Toxiccan/typeshi/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Toxiccan/typeshi/tree/master/0572-subtree-of-another-tree) |
@@ -332,6 +337,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0104-maximum-depth-of-binary-tree](https://github.com/Toxiccan/typeshi/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Toxiccan/typeshi/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Toxiccan/typeshi/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Toxiccan/typeshi/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Toxiccan/typeshi/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## DP on Trees
 |  |
