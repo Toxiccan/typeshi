@@ -56,6 +56,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0141-linked-list-cycle](https://github.com/Toxiccan/typeshi/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Toxiccan/typeshi/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Toxiccan/typeshi/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/Toxiccan/typeshi/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Toxiccan/typeshi/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Toxiccan/typeshi/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Toxiccan/typeshi/tree/master/0242-valid-anagram) |
@@ -84,6 +85,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0020-valid-parentheses](https://github.com/Toxiccan/typeshi/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Toxiccan/typeshi/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Toxiccan/typeshi/tree/master/0125-valid-palindrome) |
+| [0208-implement-trie-prefix-tree](https://github.com/Toxiccan/typeshi/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Toxiccan/typeshi/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Toxiccan/typeshi/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0451-sort-characters-by-frequency](https://github.com/Toxiccan/typeshi/tree/master/0451-sort-characters-by-frequency) |
@@ -202,6 +204,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | ------- |
 | [0146-lru-cache](https://github.com/Toxiccan/typeshi/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Toxiccan/typeshi/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/Toxiccan/typeshi/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Toxiccan/typeshi/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0981-time-based-key-value-store](https://github.com/Toxiccan/typeshi/tree/master/0981-time-based-key-value-store) |
 ## Math
@@ -377,4 +380,5 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Toxiccan/typeshi/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/Toxiccan/typeshi/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
