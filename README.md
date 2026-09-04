@@ -56,6 +56,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0141-linked-list-cycle](https://github.com/Toxiccan/typeshi/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Toxiccan/typeshi/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Toxiccan/typeshi/tree/master/0146-lru-cache) |
+| [0202-happy-number](https://github.com/Toxiccan/typeshi/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Toxiccan/typeshi/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Toxiccan/typeshi/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Toxiccan/typeshi/tree/master/0219-contains-duplicate-ii) |
@@ -148,6 +149,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0143-reorder-list](https://github.com/Toxiccan/typeshi/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Toxiccan/typeshi/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Toxiccan/typeshi/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Toxiccan/typeshi/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Toxiccan/typeshi/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/Toxiccan/typeshi/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Toxiccan/typeshi/tree/master/0633-sum-of-square-numbers) |
@@ -218,6 +220,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0069-sqrtx](https://github.com/Toxiccan/typeshi/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Toxiccan/typeshi/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Toxiccan/typeshi/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Toxiccan/typeshi/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Toxiccan/typeshi/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Toxiccan/typeshi/tree/master/0633-sum-of-square-numbers) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Toxiccan/typeshi/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -385,4 +388,8 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0014-longest-common-prefix](https://github.com/Toxiccan/typeshi/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Toxiccan/typeshi/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Toxiccan/typeshi/tree/master/0211-design-add-and-search-words-data-structure) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Toxiccan/typeshi/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
