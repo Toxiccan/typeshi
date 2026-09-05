@@ -43,6 +43,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0853-car-fleet](https://github.com/Toxiccan/typeshi/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Toxiccan/typeshi/tree/master/0875-koko-eating-bananas) |
 | [1260-shift-2d-grid](https://github.com/Toxiccan/typeshi/tree/master/1260-shift-2d-grid) |
+| [2706-buy-two-chocolates](https://github.com/Toxiccan/typeshi/tree/master/2706-buy-two-chocolates) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Toxiccan/typeshi/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
@@ -78,6 +79,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0628-maximum-product-of-three-numbers](https://github.com/Toxiccan/typeshi/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Toxiccan/typeshi/tree/master/0658-find-k-closest-elements) |
 | [0853-car-fleet](https://github.com/Toxiccan/typeshi/tree/master/0853-car-fleet) |
+| [2706-buy-two-chocolates](https://github.com/Toxiccan/typeshi/tree/master/2706-buy-two-chocolates) |
 ## String
 |  |
 | ------- |
@@ -175,6 +177,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Toxiccan/typeshi/tree/master/0011-container-with-most-water) |
+| [2706-buy-two-chocolates](https://github.com/Toxiccan/typeshi/tree/master/2706-buy-two-chocolates) |
 ## Dynamic Programming
 |  |
 | ------- |
