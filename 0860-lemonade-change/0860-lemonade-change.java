@@ -6,10 +6,7 @@ class Solution {
         {
 
             int net_trans = bills[i];
-            if(net_trans == 5)
-            {
-                five++;
-            }
+            if(net_trans == 5) five++;
             if(net_trans == 10)
             {
                 if(five > 0)
@@ -26,10 +23,7 @@ class Solution {
                     five--;
                     ten--;
                 }
-                else if(five >= 3)
-                {
-                    five -= 3;
-                }
+                else if(five >= 3) five -= 3;
                 else return false;
             }   
         }
