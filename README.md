@@ -41,6 +41,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0704-binary-search](https://github.com/Toxiccan/typeshi/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Toxiccan/typeshi/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Toxiccan/typeshi/tree/master/0853-car-fleet) |
+| [0860-lemonade-change](https://github.com/Toxiccan/typeshi/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Toxiccan/typeshi/tree/master/0875-koko-eating-bananas) |
 | [1260-shift-2d-grid](https://github.com/Toxiccan/typeshi/tree/master/1260-shift-2d-grid) |
 | [2706-buy-two-chocolates](https://github.com/Toxiccan/typeshi/tree/master/2706-buy-two-chocolates) |
@@ -177,6 +178,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Toxiccan/typeshi/tree/master/0011-container-with-most-water) |
+| [0860-lemonade-change](https://github.com/Toxiccan/typeshi/tree/master/0860-lemonade-change) |
 | [2706-buy-two-chocolates](https://github.com/Toxiccan/typeshi/tree/master/2706-buy-two-chocolates) |
 ## Dynamic Programming
 |  |
