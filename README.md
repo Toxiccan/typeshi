@@ -98,6 +98,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0451-sort-characters-by-frequency](https://github.com/Toxiccan/typeshi/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Toxiccan/typeshi/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/Toxiccan/typeshi/tree/master/0981-time-based-key-value-store) |
+| [2864-maximum-odd-binary-number](https://github.com/Toxiccan/typeshi/tree/master/2864-maximum-odd-binary-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -183,6 +184,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0860-lemonade-change](https://github.com/Toxiccan/typeshi/tree/master/0860-lemonade-change) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Toxiccan/typeshi/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2706-buy-two-chocolates](https://github.com/Toxiccan/typeshi/tree/master/2706-buy-two-chocolates) |
+| [2864-maximum-odd-binary-number](https://github.com/Toxiccan/typeshi/tree/master/2864-maximum-odd-binary-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -231,6 +233,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0202-happy-number](https://github.com/Toxiccan/typeshi/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Toxiccan/typeshi/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Toxiccan/typeshi/tree/master/0633-sum-of-square-numbers) |
+| [2864-maximum-odd-binary-number](https://github.com/Toxiccan/typeshi/tree/master/2864-maximum-odd-binary-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Toxiccan/typeshi/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Linked List
 |  |
