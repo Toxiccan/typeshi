@@ -98,6 +98,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0451-sort-characters-by-frequency](https://github.com/Toxiccan/typeshi/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Toxiccan/typeshi/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/Toxiccan/typeshi/tree/master/0981-time-based-key-value-store) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Toxiccan/typeshi/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2864-maximum-odd-binary-number](https://github.com/Toxiccan/typeshi/tree/master/2864-maximum-odd-binary-number) |
 ## Divide and Conquer
 |  |
@@ -205,6 +206,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0234-palindrome-linked-list](https://github.com/Toxiccan/typeshi/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/Toxiccan/typeshi/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Toxiccan/typeshi/tree/master/0853-car-fleet) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Toxiccan/typeshi/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -407,4 +409,8 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 |  |
 | ------- |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Toxiccan/typeshi/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Toxiccan/typeshi/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
