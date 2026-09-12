@@ -43,6 +43,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0853-car-fleet](https://github.com/Toxiccan/typeshi/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/Toxiccan/typeshi/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Toxiccan/typeshi/tree/master/0875-koko-eating-bananas) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Toxiccan/typeshi/tree/master/0918-maximum-sum-circular-subarray) |
 | [1260-shift-2d-grid](https://github.com/Toxiccan/typeshi/tree/master/1260-shift-2d-grid) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Toxiccan/typeshi/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2706-buy-two-chocolates](https://github.com/Toxiccan/typeshi/tree/master/2706-buy-two-chocolates) |
@@ -107,6 +108,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Toxiccan/typeshi/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/Toxiccan/typeshi/tree/master/0427-construct-quad-tree) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Toxiccan/typeshi/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -194,6 +196,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Toxiccan/typeshi/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Toxiccan/typeshi/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Toxiccan/typeshi/tree/master/0918-maximum-sum-circular-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -417,4 +420,12 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Toxiccan/typeshi/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Toxiccan/typeshi/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Toxiccan/typeshi/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
