@@ -44,6 +44,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0860-lemonade-change](https://github.com/Toxiccan/typeshi/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Toxiccan/typeshi/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Toxiccan/typeshi/tree/master/0918-maximum-sum-circular-subarray) |
+| [0978-longest-turbulent-subarray](https://github.com/Toxiccan/typeshi/tree/master/0978-longest-turbulent-subarray) |
 | [1260-shift-2d-grid](https://github.com/Toxiccan/typeshi/tree/master/1260-shift-2d-grid) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Toxiccan/typeshi/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2706-buy-two-chocolates](https://github.com/Toxiccan/typeshi/tree/master/2706-buy-two-chocolates) |
@@ -197,6 +198,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0042-trapping-rain-water](https://github.com/Toxiccan/typeshi/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Toxiccan/typeshi/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Toxiccan/typeshi/tree/master/0918-maximum-sum-circular-subarray) |
+| [0978-longest-turbulent-subarray](https://github.com/Toxiccan/typeshi/tree/master/0978-longest-turbulent-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -298,6 +300,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0567-permutation-in-string](https://github.com/Toxiccan/typeshi/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Toxiccan/typeshi/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Toxiccan/typeshi/tree/master/0658-find-k-closest-elements) |
+| [0978-longest-turbulent-subarray](https://github.com/Toxiccan/typeshi/tree/master/0978-longest-turbulent-subarray) |
 ## Tree
 |  |
 | ------- |
