@@ -243,6 +243,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0202-happy-number](https://github.com/Toxiccan/typeshi/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Toxiccan/typeshi/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Toxiccan/typeshi/tree/master/0633-sum-of-square-numbers) |
+| [0836-rectangle-overlap](https://github.com/Toxiccan/typeshi/tree/master/0836-rectangle-overlap) |
 | [2864-maximum-odd-binary-number](https://github.com/Toxiccan/typeshi/tree/master/2864-maximum-odd-binary-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Toxiccan/typeshi/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/Toxiccan/typeshi/tree/master/3870-count-commas-in-range) |
@@ -431,4 +432,8 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Toxiccan/typeshi/tree/master/0918-maximum-sum-circular-subarray) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Toxiccan/typeshi/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
