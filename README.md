@@ -33,6 +33,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0217-contains-duplicate](https://github.com/Toxiccan/typeshi/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Toxiccan/typeshi/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Toxiccan/typeshi/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Toxiccan/typeshi/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Toxiccan/typeshi/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/Toxiccan/typeshi/tree/master/0427-construct-quad-tree) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Toxiccan/typeshi/tree/master/0628-maximum-product-of-three-numbers) |
@@ -164,6 +165,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0189-rotate-array](https://github.com/Toxiccan/typeshi/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Toxiccan/typeshi/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Toxiccan/typeshi/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Toxiccan/typeshi/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/Toxiccan/typeshi/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Toxiccan/typeshi/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Toxiccan/typeshi/tree/master/0658-find-k-closest-elements) |
