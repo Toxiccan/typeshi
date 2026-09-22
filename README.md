@@ -21,6 +21,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0042-trapping-rain-water](https://github.com/Toxiccan/typeshi/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Toxiccan/typeshi/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/Toxiccan/typeshi/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Toxiccan/typeshi/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Toxiccan/typeshi/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Toxiccan/typeshi/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Toxiccan/typeshi/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -77,6 +78,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | ------- |
 | [0015-3sum](https://github.com/Toxiccan/typeshi/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Toxiccan/typeshi/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Toxiccan/typeshi/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Toxiccan/typeshi/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Toxiccan/typeshi/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Toxiccan/typeshi/tree/master/0242-valid-anagram) |
@@ -156,6 +158,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Toxiccan/typeshi/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Toxiccan/typeshi/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Toxiccan/typeshi/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Toxiccan/typeshi/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Toxiccan/typeshi/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Toxiccan/typeshi/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Toxiccan/typeshi/tree/master/0141-linked-list-cycle) |
@@ -438,4 +441,12 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Toxiccan/typeshi/tree/master/0836-rectangle-overlap) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Toxiccan/typeshi/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Toxiccan/typeshi/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
