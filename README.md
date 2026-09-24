@@ -22,6 +22,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0049-group-anagrams](https://github.com/Toxiccan/typeshi/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/Toxiccan/typeshi/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Toxiccan/typeshi/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Toxiccan/typeshi/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Toxiccan/typeshi/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Toxiccan/typeshi/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Toxiccan/typeshi/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -454,10 +455,12 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Toxiccan/typeshi/tree/master/0078-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Toxiccan/typeshi/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Toxiccan/typeshi/tree/master/0078-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Toxiccan/typeshi/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
