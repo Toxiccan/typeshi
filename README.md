@@ -48,6 +48,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0918-maximum-sum-circular-subarray](https://github.com/Toxiccan/typeshi/tree/master/0918-maximum-sum-circular-subarray) |
 | [0978-longest-turbulent-subarray](https://github.com/Toxiccan/typeshi/tree/master/0978-longest-turbulent-subarray) |
 | [1260-shift-2d-grid](https://github.com/Toxiccan/typeshi/tree/master/1260-shift-2d-grid) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Toxiccan/typeshi/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Toxiccan/typeshi/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2706-buy-two-chocolates](https://github.com/Toxiccan/typeshi/tree/master/2706-buy-two-chocolates) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Toxiccan/typeshi/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -249,6 +250,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0628-maximum-product-of-three-numbers](https://github.com/Toxiccan/typeshi/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Toxiccan/typeshi/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/Toxiccan/typeshi/tree/master/0836-rectangle-overlap) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Toxiccan/typeshi/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2864-maximum-odd-binary-number](https://github.com/Toxiccan/typeshi/tree/master/2864-maximum-odd-binary-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Toxiccan/typeshi/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/Toxiccan/typeshi/tree/master/3870-count-commas-in-range) |
@@ -449,4 +451,20 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Toxiccan/typeshi/tree/master/0075-sort-colors) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Toxiccan/typeshi/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Toxiccan/typeshi/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Toxiccan/typeshi/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Toxiccan/typeshi/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
