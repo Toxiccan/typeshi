@@ -101,6 +101,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0013-roman-to-integer](https://github.com/Toxiccan/typeshi/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Toxiccan/typeshi/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Toxiccan/typeshi/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Toxiccan/typeshi/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Toxiccan/typeshi/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Toxiccan/typeshi/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/Toxiccan/typeshi/tree/master/0208-implement-trie-prefix-tree) |
@@ -206,6 +207,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Toxiccan/typeshi/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Toxiccan/typeshi/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Toxiccan/typeshi/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Toxiccan/typeshi/tree/master/0918-maximum-sum-circular-subarray) |
@@ -435,6 +437,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Toxiccan/typeshi/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Toxiccan/typeshi/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Queue
 |  |
@@ -459,6 +462,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Toxiccan/typeshi/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Toxiccan/typeshi/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Toxiccan/typeshi/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Toxiccan/typeshi/tree/master/0046-permutations) |
