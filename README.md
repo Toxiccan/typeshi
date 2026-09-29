@@ -26,6 +26,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0074-search-a-2d-matrix](https://github.com/Toxiccan/typeshi/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Toxiccan/typeshi/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Toxiccan/typeshi/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Toxiccan/typeshi/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Toxiccan/typeshi/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Toxiccan/typeshi/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Toxiccan/typeshi/tree/master/0090-subsets-ii) |
@@ -103,6 +104,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0020-valid-parentheses](https://github.com/Toxiccan/typeshi/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Toxiccan/typeshi/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Toxiccan/typeshi/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/Toxiccan/typeshi/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Toxiccan/typeshi/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/Toxiccan/typeshi/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Toxiccan/typeshi/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -151,6 +153,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | ------- |
 | [0036-valid-sudoku](https://github.com/Toxiccan/typeshi/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Toxiccan/typeshi/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Toxiccan/typeshi/tree/master/0079-word-search) |
 | [0427-construct-quad-tree](https://github.com/Toxiccan/typeshi/tree/master/0427-construct-quad-tree) |
 | [1260-shift-2d-grid](https://github.com/Toxiccan/typeshi/tree/master/1260-shift-2d-grid) |
 ## Union-Find
@@ -341,6 +344,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Toxiccan/typeshi/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Toxiccan/typeshi/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Toxiccan/typeshi/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Toxiccan/typeshi/tree/master/0100-same-tree) |
@@ -467,6 +471,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0040-combination-sum-ii](https://github.com/Toxiccan/typeshi/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Toxiccan/typeshi/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Toxiccan/typeshi/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Toxiccan/typeshi/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Toxiccan/typeshi/tree/master/0090-subsets-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Toxiccan/typeshi/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
