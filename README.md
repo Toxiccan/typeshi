@@ -106,6 +106,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0049-group-anagrams](https://github.com/Toxiccan/typeshi/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Toxiccan/typeshi/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Toxiccan/typeshi/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Toxiccan/typeshi/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/Toxiccan/typeshi/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Toxiccan/typeshi/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/Toxiccan/typeshi/tree/master/0242-valid-anagram) |
@@ -213,6 +214,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0022-generate-parentheses](https://github.com/Toxiccan/typeshi/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Toxiccan/typeshi/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Toxiccan/typeshi/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Toxiccan/typeshi/tree/master/0131-palindrome-partitioning) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Toxiccan/typeshi/tree/master/0918-maximum-sum-circular-subarray) |
 | [0978-longest-turbulent-subarray](https://github.com/Toxiccan/typeshi/tree/master/0978-longest-turbulent-subarray) |
 ## Stack
@@ -473,6 +475,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0078-subsets](https://github.com/Toxiccan/typeshi/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Toxiccan/typeshi/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Toxiccan/typeshi/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Toxiccan/typeshi/tree/master/0131-palindrome-partitioning) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Toxiccan/typeshi/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
