@@ -443,6 +443,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Toxiccan/typeshi/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Toxiccan/typeshi/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Toxiccan/typeshi/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Queue
