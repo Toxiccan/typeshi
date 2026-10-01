@@ -213,6 +213,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | ------- |
 | [0022-generate-parentheses](https://github.com/Toxiccan/typeshi/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Toxiccan/typeshi/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Toxiccan/typeshi/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Toxiccan/typeshi/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Toxiccan/typeshi/tree/master/0131-palindrome-partitioning) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Toxiccan/typeshi/tree/master/0918-maximum-sum-circular-subarray) |
@@ -256,6 +257,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0009-palindrome-number](https://github.com/Toxiccan/typeshi/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Toxiccan/typeshi/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Toxiccan/typeshi/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Toxiccan/typeshi/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Toxiccan/typeshi/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Toxiccan/typeshi/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Toxiccan/typeshi/tree/master/0202-happy-number) |
@@ -492,4 +494,8 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Toxiccan/typeshi/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Toxiccan/typeshi/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
