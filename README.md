@@ -103,6 +103,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0014-longest-common-prefix](https://github.com/Toxiccan/typeshi/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Toxiccan/typeshi/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Toxiccan/typeshi/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Toxiccan/typeshi/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Toxiccan/typeshi/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Toxiccan/typeshi/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Toxiccan/typeshi/tree/master/0125-valid-palindrome) |
@@ -212,6 +213,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Toxiccan/typeshi/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Toxiccan/typeshi/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Toxiccan/typeshi/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Toxiccan/typeshi/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Toxiccan/typeshi/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -222,6 +224,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Toxiccan/typeshi/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Toxiccan/typeshi/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Toxiccan/typeshi/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Toxiccan/typeshi/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Toxiccan/typeshi/tree/master/0094-binary-tree-inorder-traversal) |
@@ -447,6 +450,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | ------- |
 | [0020-valid-parentheses](https://github.com/Toxiccan/typeshi/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Toxiccan/typeshi/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Toxiccan/typeshi/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Toxiccan/typeshi/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Queue
 |  |
