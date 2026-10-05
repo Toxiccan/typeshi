@@ -114,6 +114,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Toxiccan/typeshi/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0451-sort-characters-by-frequency](https://github.com/Toxiccan/typeshi/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Toxiccan/typeshi/tree/master/0567-permutation-in-string) |
+| [0856-score-of-parentheses](https://github.com/Toxiccan/typeshi/tree/master/0856-score-of-parentheses) |
 | [0981-time-based-key-value-store](https://github.com/Toxiccan/typeshi/tree/master/0981-time-based-key-value-store) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Toxiccan/typeshi/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Toxiccan/typeshi/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -236,6 +237,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0234-palindrome-linked-list](https://github.com/Toxiccan/typeshi/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/Toxiccan/typeshi/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Toxiccan/typeshi/tree/master/0853-car-fleet) |
+| [0856-score-of-parentheses](https://github.com/Toxiccan/typeshi/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Toxiccan/typeshi/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
@@ -451,6 +453,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0020-valid-parentheses](https://github.com/Toxiccan/typeshi/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Toxiccan/typeshi/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Toxiccan/typeshi/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Toxiccan/typeshi/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Toxiccan/typeshi/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Queue
 |  |
