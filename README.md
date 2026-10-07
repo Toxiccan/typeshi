@@ -49,6 +49,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0658-find-k-closest-elements](https://github.com/Toxiccan/typeshi/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Toxiccan/typeshi/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Toxiccan/typeshi/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/Toxiccan/typeshi/tree/master/0746-min-cost-climbing-stairs) |
 | [0853-car-fleet](https://github.com/Toxiccan/typeshi/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/Toxiccan/typeshi/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Toxiccan/typeshi/tree/master/0875-koko-eating-bananas) |
@@ -224,6 +225,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0131-palindrome-partitioning](https://github.com/Toxiccan/typeshi/tree/master/0131-palindrome-partitioning) |
 | [0403-frog-jump](https://github.com/Toxiccan/typeshi/tree/master/0403-frog-jump) |
 | [0509-fibonacci-number](https://github.com/Toxiccan/typeshi/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Toxiccan/typeshi/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Toxiccan/typeshi/tree/master/0918-maximum-sum-circular-subarray) |
 | [0978-longest-turbulent-subarray](https://github.com/Toxiccan/typeshi/tree/master/0978-longest-turbulent-subarray) |
 ## Stack
