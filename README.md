@@ -42,6 +42,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0238-product-of-array-except-self](https://github.com/Toxiccan/typeshi/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Toxiccan/typeshi/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Toxiccan/typeshi/tree/master/0347-top-k-frequent-elements) |
+| [0403-frog-jump](https://github.com/Toxiccan/typeshi/tree/master/0403-frog-jump) |
 | [0427-construct-quad-tree](https://github.com/Toxiccan/typeshi/tree/master/0427-construct-quad-tree) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Toxiccan/typeshi/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Toxiccan/typeshi/tree/master/0643-maximum-average-subarray-i) |
@@ -221,6 +222,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0070-climbing-stairs](https://github.com/Toxiccan/typeshi/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Toxiccan/typeshi/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Toxiccan/typeshi/tree/master/0131-palindrome-partitioning) |
+| [0403-frog-jump](https://github.com/Toxiccan/typeshi/tree/master/0403-frog-jump) |
 | [0509-fibonacci-number](https://github.com/Toxiccan/typeshi/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Toxiccan/typeshi/tree/master/0918-maximum-sum-circular-subarray) |
 | [0978-longest-turbulent-subarray](https://github.com/Toxiccan/typeshi/tree/master/0978-longest-turbulent-subarray) |
