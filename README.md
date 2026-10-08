@@ -36,6 +36,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0162-find-peak-element](https://github.com/Toxiccan/typeshi/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Toxiccan/typeshi/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Toxiccan/typeshi/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Toxiccan/typeshi/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Toxiccan/typeshi/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Toxiccan/typeshi/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Toxiccan/typeshi/tree/master/0219-contains-duplicate-ii) |
@@ -223,6 +224,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0070-climbing-stairs](https://github.com/Toxiccan/typeshi/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Toxiccan/typeshi/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Toxiccan/typeshi/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/Toxiccan/typeshi/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/Toxiccan/typeshi/tree/master/0403-frog-jump) |
 | [0509-fibonacci-number](https://github.com/Toxiccan/typeshi/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Toxiccan/typeshi/tree/master/0746-min-cost-climbing-stairs) |
