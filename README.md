@@ -61,6 +61,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Toxiccan/typeshi/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Toxiccan/typeshi/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2706-buy-two-chocolates](https://github.com/Toxiccan/typeshi/tree/master/2706-buy-two-chocolates) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Toxiccan/typeshi/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Toxiccan/typeshi/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
@@ -516,6 +517,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Toxiccan/typeshi/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Toxiccan/typeshi/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Memoization
 |  |
 | ------- |
