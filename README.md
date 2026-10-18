@@ -104,6 +104,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Toxiccan/typeshi/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Toxiccan/typeshi/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Toxiccan/typeshi/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Toxiccan/typeshi/tree/master/0020-valid-parentheses) |
@@ -172,6 +173,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Toxiccan/typeshi/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Toxiccan/typeshi/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Toxiccan/typeshi/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Toxiccan/typeshi/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -220,6 +222,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Toxiccan/typeshi/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Toxiccan/typeshi/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Toxiccan/typeshi/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Toxiccan/typeshi/tree/master/0042-trapping-rain-water) |
@@ -523,4 +526,8 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | ------- |
 | [0070-climbing-stairs](https://github.com/Toxiccan/typeshi/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Toxiccan/typeshi/tree/master/0509-fibonacci-number) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Toxiccan/typeshi/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
