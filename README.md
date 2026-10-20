@@ -128,6 +128,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Toxiccan/typeshi/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Toxiccan/typeshi/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2864-maximum-odd-binary-number](https://github.com/Toxiccan/typeshi/tree/master/2864-maximum-odd-binary-number) |
+| [3498-reverse-degree-of-a-string](https://github.com/Toxiccan/typeshi/tree/master/3498-reverse-degree-of-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -322,6 +323,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Toxiccan/typeshi/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Toxiccan/typeshi/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Toxiccan/typeshi/tree/master/3498-reverse-degree-of-a-string) |
 ## Database
 |  |
 | ------- |
