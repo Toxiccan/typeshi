@@ -129,6 +129,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Toxiccan/typeshi/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2864-maximum-odd-binary-number](https://github.com/Toxiccan/typeshi/tree/master/2864-maximum-odd-binary-number) |
 | [3498-reverse-degree-of-a-string](https://github.com/Toxiccan/typeshi/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Toxiccan/typeshi/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
