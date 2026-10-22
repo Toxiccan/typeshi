@@ -120,6 +120,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0211-design-add-and-search-words-data-structure](https://github.com/Toxiccan/typeshi/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/Toxiccan/typeshi/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Toxiccan/typeshi/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0344-reverse-string](https://github.com/Toxiccan/typeshi/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Toxiccan/typeshi/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Toxiccan/typeshi/tree/master/0567-permutation-in-string) |
 | [0856-score-of-parentheses](https://github.com/Toxiccan/typeshi/tree/master/0856-score-of-parentheses) |
@@ -194,6 +195,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0202-happy-number](https://github.com/Toxiccan/typeshi/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Toxiccan/typeshi/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Toxiccan/typeshi/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/Toxiccan/typeshi/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Toxiccan/typeshi/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Toxiccan/typeshi/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Toxiccan/typeshi/tree/master/0658-find-k-closest-elements) |
