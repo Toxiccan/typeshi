@@ -22,6 +22,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0040-combination-sum-ii](https://github.com/Toxiccan/typeshi/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Toxiccan/typeshi/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Toxiccan/typeshi/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Toxiccan/typeshi/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Toxiccan/typeshi/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/Toxiccan/typeshi/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Toxiccan/typeshi/tree/master/0075-sort-colors) |
@@ -167,6 +168,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Toxiccan/typeshi/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Toxiccan/typeshi/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Toxiccan/typeshi/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Toxiccan/typeshi/tree/master/0079-word-search) |
 | [0427-construct-quad-tree](https://github.com/Toxiccan/typeshi/tree/master/0427-construct-quad-tree) |
@@ -284,6 +286,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0002-add-two-numbers](https://github.com/Toxiccan/typeshi/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Toxiccan/typeshi/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Toxiccan/typeshi/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Toxiccan/typeshi/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Toxiccan/typeshi/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Toxiccan/typeshi/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Toxiccan/typeshi/tree/master/0150-evaluate-reverse-polish-notation) |
