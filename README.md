@@ -129,6 +129,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0981-time-based-key-value-store](https://github.com/Toxiccan/typeshi/tree/master/0981-time-based-key-value-store) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Toxiccan/typeshi/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Toxiccan/typeshi/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [2409-count-days-spent-together](https://github.com/Toxiccan/typeshi/tree/master/2409-count-days-spent-together) |
 | [2864-maximum-odd-binary-number](https://github.com/Toxiccan/typeshi/tree/master/2864-maximum-odd-binary-number) |
 | [3498-reverse-degree-of-a-string](https://github.com/Toxiccan/typeshi/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Toxiccan/typeshi/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -297,6 +298,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0633-sum-of-square-numbers](https://github.com/Toxiccan/typeshi/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/Toxiccan/typeshi/tree/master/0836-rectangle-overlap) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Toxiccan/typeshi/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2409-count-days-spent-together](https://github.com/Toxiccan/typeshi/tree/master/2409-count-days-spent-together) |
 | [2864-maximum-odd-binary-number](https://github.com/Toxiccan/typeshi/tree/master/2864-maximum-odd-binary-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Toxiccan/typeshi/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/Toxiccan/typeshi/tree/master/3870-count-commas-in-range) |
