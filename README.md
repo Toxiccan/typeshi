@@ -127,6 +127,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0856-score-of-parentheses](https://github.com/Toxiccan/typeshi/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Toxiccan/typeshi/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0981-time-based-key-value-store](https://github.com/Toxiccan/typeshi/tree/master/0981-time-based-key-value-store) |
+| [1360-number-of-days-between-two-dates](https://github.com/Toxiccan/typeshi/tree/master/1360-number-of-days-between-two-dates) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Toxiccan/typeshi/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Toxiccan/typeshi/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2409-count-days-spent-together](https://github.com/Toxiccan/typeshi/tree/master/2409-count-days-spent-together) |
@@ -297,6 +298,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0628-maximum-product-of-three-numbers](https://github.com/Toxiccan/typeshi/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Toxiccan/typeshi/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/Toxiccan/typeshi/tree/master/0836-rectangle-overlap) |
+| [1360-number-of-days-between-two-dates](https://github.com/Toxiccan/typeshi/tree/master/1360-number-of-days-between-two-dates) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Toxiccan/typeshi/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2409-count-days-spent-together](https://github.com/Toxiccan/typeshi/tree/master/2409-count-days-spent-together) |
 | [2864-maximum-odd-binary-number](https://github.com/Toxiccan/typeshi/tree/master/2864-maximum-odd-binary-number) |
