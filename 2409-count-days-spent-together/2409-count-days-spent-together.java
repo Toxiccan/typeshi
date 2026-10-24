@@ -23,7 +23,7 @@ class Solution {
         int month = Integer.parseInt(s.substring(0,2));
         int day = Integer.parseInt(s.substring(3,5));
 
-        for(int i = 0;i < month;i++)
+        for(int i = 1;i < month;i++)
         {
             result = result + DaysinMonth(i);
         }
