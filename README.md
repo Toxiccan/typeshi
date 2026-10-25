@@ -137,6 +137,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Toxiccan/typeshi/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Toxiccan/typeshi/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/Toxiccan/typeshi/tree/master/0427-construct-quad-tree) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Toxiccan/typeshi/tree/master/0918-maximum-sum-circular-subarray) |
@@ -526,6 +527,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | ------- |
 | [0078-subsets](https://github.com/Toxiccan/typeshi/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Toxiccan/typeshi/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/Toxiccan/typeshi/tree/master/0191-number-of-1-bits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Toxiccan/typeshi/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
