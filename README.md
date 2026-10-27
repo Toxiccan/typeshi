@@ -124,6 +124,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [0344-reverse-string](https://github.com/Toxiccan/typeshi/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Toxiccan/typeshi/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Toxiccan/typeshi/tree/master/0567-permutation-in-string) |
+| [0709-to-lower-case](https://github.com/Toxiccan/typeshi/tree/master/0709-to-lower-case) |
 | [0856-score-of-parentheses](https://github.com/Toxiccan/typeshi/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Toxiccan/typeshi/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0981-time-based-key-value-store](https://github.com/Toxiccan/typeshi/tree/master/0981-time-based-key-value-store) |
