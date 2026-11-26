@@ -308,6 +308,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Toxiccan/typeshi/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2409-count-days-spent-together](https://github.com/Toxiccan/typeshi/tree/master/2409-count-days-spent-together) |
 | [2864-maximum-odd-binary-number](https://github.com/Toxiccan/typeshi/tree/master/2864-maximum-odd-binary-number) |
+| [3360-stone-removal-game](https://github.com/Toxiccan/typeshi/tree/master/3360-stone-removal-game) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Toxiccan/typeshi/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Toxiccan/typeshi/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/Toxiccan/typeshi/tree/master/3870-count-commas-in-range) |
@@ -340,6 +341,7 @@ be my dsa practice questions,jupyter notebooks containing programs on various ty
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Toxiccan/typeshi/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Toxiccan/typeshi/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/Toxiccan/typeshi/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Toxiccan/typeshi/tree/master/3498-reverse-degree-of-a-string) |
 ## Database
 |  |
